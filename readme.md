@@ -19,9 +19,9 @@
 
 <h3>Some links</h3>
 <p>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968260.png" width="13"/> **Bitcoin:** Soon <br>
-<img src="https://cdn-icons-png.flaticon.com/512/825/825487.png" width="13"/> **Monero:** Soon <br>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="13"/> **Discord:** @viclinux <br>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968260.png" width="13"/> <b>Bitcoin:</b> Soon <br>
+<img src="https://cdn-icons-png.flaticon.com/512/825/825487.png" width="13"/> <b>Monero:</b> Soon <br>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="13"/> <b>Discord:</b> @viclinux <br>
 </p>
 
 ------------
