@@ -25,7 +25,7 @@
 <p>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968260.png" width="14"/> <b>Bitcoin:</b> Soon <br>
 <img src="https://cdn-icons-png.flaticon.com/512/825/825487.png" width="14"/> <b>Monero:</b> Soon <br>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="14"/> <b>Discord:</b> @viclinux <br>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="14"/> <b>Discord:</b> SOon <br>
 </p>
 
 ------------
